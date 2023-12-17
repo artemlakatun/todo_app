@@ -65,6 +65,10 @@ body {
     list-style-type: none;
 }
 
+.todo-input {
+    width: 600px;
+}
+
 .todo-item {
     display: flex;
     align-items: center;
